@@ -1,0 +1,17 @@
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\PK\bin\PK.dll.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\PK\bin\PK.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\PK\bin\PK.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\PK\obj\Debug\PK.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\PK\obj\Debug\PK.pdb
+H:\Projekt\G2A.com PWO2\PK\bin\PK.dll.config
+H:\Projekt\G2A.com PWO2\PK\bin\PK.dll
+H:\Projekt\G2A.com PWO2\PK\bin\PK.pdb
+H:\Projekt\G2A.com PWO2\PK\obj\Debug\PK.dll
+H:\Projekt\G2A.com PWO2\PK\obj\Debug\PK.pdb
+H:\Projekt\G2A.com PWO2\PK\obj\Debug\PK.csprojResolveAssemblyReference.cache
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\PK\bin\PK.dll
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\PK\bin\PK.pdb
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\PK\obj\Debug\PK.dll
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\PK\obj\Debug\PK.pdb
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\PK\bin\PK.dll.config
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\PK\obj\Debug\PK.csprojResolveAssemblyReference.cache

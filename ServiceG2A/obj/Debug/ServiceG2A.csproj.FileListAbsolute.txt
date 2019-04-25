@@ -1,0 +1,44 @@
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\G2A.com\ServiceG2A\bin\ServiceG2A.dll.config
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\G2A.com\ServiceG2A\bin\ServiceG2A.dll
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\G2A.com\ServiceG2A\bin\ServiceG2A.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\G2A.com\ServiceG2A\obj\Debug\ServiceG2A.dll
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\G2A.com\ServiceG2A\obj\Debug\ServiceG2A.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\G2A.com\ServiceG2A\obj\Debug\ServiceG2A.csprojResolveAssemblyReference.cache
+H:\Projekt\G2A.com\ServiceG2A\bin\ServiceG2A.dll.config
+H:\Projekt\G2A.com\ServiceG2A\bin\ServiceG2A.dll
+H:\Projekt\G2A.com\ServiceG2A\bin\ServiceG2A.pdb
+H:\Projekt\G2A.com\ServiceG2A\obj\Debug\ServiceG2A.dll
+H:\Projekt\G2A.com\ServiceG2A\obj\Debug\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\ServiceG2A\bin\ServiceG2A.dll.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\ServiceG2A\bin\ServiceG2A.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\ServiceG2A\bin\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\ServiceG2A\obj\Debug\ServiceG2A.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\ServiceG2A\obj\Debug\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\ServiceG2A\bin\ServiceG2A.dll.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\ServiceG2A\bin\ServiceG2A.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\ServiceG2A\bin\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\ServiceG2A\obj\Debug\ServiceG2A.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\ServiceG2A\obj\Debug\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\ServiceG2A\bin\ServiceG2A.dll.config
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\ServiceG2A\bin\ServiceG2A.dll
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\ServiceG2A\bin\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\ServiceG2A\obj\Debug\ServiceG2A.dll
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\ServiceG2A\obj\Debug\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\ServiceG2A\bin\ServiceG2A.dll.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\ServiceG2A\bin\ServiceG2A.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\ServiceG2A\bin\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\ServiceG2A\obj\Debug\ServiceG2A.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\ServiceG2A\obj\Debug\ServiceG2A.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\ServiceG2A\obj\Debug\ServiceG2A.csprojResolveAssemblyReference.cache
+H:\Projekt\G2A.com PWO2\ServiceG2A\bin\ServiceG2A.dll.config
+H:\Projekt\G2A.com PWO2\ServiceG2A\bin\ServiceG2A.dll
+H:\Projekt\G2A.com PWO2\ServiceG2A\bin\ServiceG2A.pdb
+H:\Projekt\G2A.com PWO2\ServiceG2A\obj\Debug\ServiceG2A.dll
+H:\Projekt\G2A.com PWO2\ServiceG2A\obj\Debug\ServiceG2A.pdb
+H:\Projekt\G2A.com PWO2\ServiceG2A\obj\Debug\ServiceG2A.csprojResolveAssemblyReference.cache
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\ServiceG2A\bin\ServiceG2A.dll.config
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\ServiceG2A\bin\ServiceG2A.dll
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\ServiceG2A\bin\ServiceG2A.pdb
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\ServiceG2A\obj\Debug\ServiceG2A.dll
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\ServiceG2A\obj\Debug\ServiceG2A.pdb
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\ServiceG2A\obj\Debug\ServiceG2A.csprojResolveAssemblyReference.cache

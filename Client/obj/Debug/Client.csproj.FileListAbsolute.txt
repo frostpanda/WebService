@@ -1,0 +1,86 @@
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\bin\Debug\Client.exe.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\bin\Debug\Client.exe
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\bin\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\bin\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\obj\Debug\Client.Form1.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\obj\Debug\Client.Form1.pl-PL.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\obj\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\obj\Debug\Client.exe
+C:\Users\Piotrek\Desktop\Projekt\G2A.com\Client\obj\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\bin\Debug\Client.exe.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\bin\Debug\Client.exe
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\bin\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\bin\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\obj\Debug\Client.Form1.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\obj\Debug\Client.Form1.pl-PL.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\obj\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\obj\Debug\Client.exe
+C:\Users\Piotrek\Desktop\Projekt\G2A.com - beta 3\Client\obj\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\bin\Debug\Client.exe.config
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\bin\Debug\Client.exe
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\bin\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\bin\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\obj\Debug\Client.Form1.resources
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\obj\Debug\Client.Form1.pl-PL.resources
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\obj\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\obj\Debug\Client.exe
+C:\Users\Piotrek\Desktop\G2A.com - beta 3\Client\obj\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\G2A.com PWO1\Client\bin\Debug\Client.exe.config
+C:\Users\Piotrek\Desktop\G2A.com PWO1\Client\obj\Debug\Client.exe
+C:\Users\Piotrek\Desktop\G2A.com PWO1\Client\obj\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\bin\Debug\Client.exe.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\bin\Debug\Client.exe
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\bin\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\bin\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\obj\Debug\Client.Form1.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\obj\Debug\Client.Form1.pl-PL.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\obj\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\obj\Debug\Client.exe
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO1\Client\obj\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\bin\Debug\Client.exe.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\bin\Debug\Client.exe
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\bin\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\bin\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\obj\Debug\Client.Form1.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\obj\Debug\Client.Form1.pl-PL.resources
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\obj\Debug\pl-PL\Client.resources.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\obj\Debug\Client.exe
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\obj\Debug\Client.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+H:\Projekt\G2A.com PWO2\Client\bin\Debug\Client.exe.config
+H:\Projekt\G2A.com PWO2\Client\obj\Debug\Client.exe
+H:\Projekt\G2A.com PWO2\Client\obj\Debug\Client.pdb
+H:\Projekt\G2A.com PWO2\Client\bin\Debug\Client.exe
+H:\Projekt\G2A.com PWO2\Client\bin\Debug\Client.pdb
+H:\Projekt\G2A.com PWO2\Client\bin\Debug\pl-PL\Client.resources.dll
+H:\Projekt\G2A.com PWO2\Client\obj\Debug\Client.Form1.resources
+H:\Projekt\G2A.com PWO2\Client\obj\Debug\Client.Properties.Resources.resources
+H:\Projekt\G2A.com PWO2\Client\obj\Debug\Client.Form1.pl-PL.resources
+H:\Projekt\G2A.com PWO2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+H:\Projekt\G2A.com PWO2\Client\obj\Debug\pl-PL\Client.resources.dll
+H:\Projekt\G2A.com PWO2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\bin\Debug\Client.exe.config
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\bin\Debug\Client.exe
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\bin\Debug\Client.pdb
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\bin\Debug\pl-PL\Client.resources.dll
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\obj\Debug\Client.Form1.resources
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\obj\Debug\Client.Form1.pl-PL.resources
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\obj\Debug\pl-PL\Client.resources.dll
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\obj\Debug\Client.exe
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\Client\obj\Debug\Client.pdb

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DB_MZ" Class="DatasetDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DB_MZ.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DB_MZConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Gry" Member="GryMZs">
+    <Type Name="GryMZ">
+      <Column Name="id" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nazwa" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="opis" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="cena" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Uzytkownicy" Member="UzytkownicyMZs">
+    <Type Name="UzytkownicyMZ">
+      <Column Name="id" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="login" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="haslo" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="mail" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="imie" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="nazwisko" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="miasto" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="k_pocztowy" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ulica" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="nr_domu" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="nr_bloku" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="nr_mieszkania" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="typ_konta" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

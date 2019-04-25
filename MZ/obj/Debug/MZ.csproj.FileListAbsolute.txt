@@ -1,0 +1,18 @@
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\MZ\bin\MZ.dll.config
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\MZ\bin\MZ.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\MZ\bin\MZ.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\MZ\obj\Debug\MZ.dll
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\MZ\obj\Debug\MZ.pdb
+C:\Users\Piotrek\Desktop\Projekt\G2A.com PWO2\MZ\obj\Debug\MZ.csprojResolveAssemblyReference.cache
+H:\Projekt\G2A.com PWO2\MZ\bin\MZ.dll.config
+H:\Projekt\G2A.com PWO2\MZ\bin\MZ.dll
+H:\Projekt\G2A.com PWO2\MZ\bin\MZ.pdb
+H:\Projekt\G2A.com PWO2\MZ\obj\Debug\MZ.dll
+H:\Projekt\G2A.com PWO2\MZ\obj\Debug\MZ.pdb
+H:\Projekt\G2A.com PWO2\MZ\obj\Debug\MZ.csprojResolveAssemblyReference.cache
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\MZ\bin\MZ.dll
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\MZ\bin\MZ.pdb
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\MZ\obj\Debug\MZ.dll
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\MZ\obj\Debug\MZ.pdb
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\MZ\bin\MZ.dll.config
+D:\Studia\WSIiZ\Pracownia Wytwarzania Oprogramowania\Projekt\G2A.com PWO2 - Final\MZ\obj\Debug\MZ.csprojResolveAssemblyReference.cache
